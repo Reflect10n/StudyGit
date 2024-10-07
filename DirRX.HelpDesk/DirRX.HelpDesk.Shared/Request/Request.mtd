@@ -93,6 +93,11 @@
           "RowNumber": 4,
           "RowSpan": 1,
           "Settings": []
+        },
+        {
+          "$type": "Sungero.Metadata.ControlGroupMetadata, Sungero.Metadata",
+          "NameGuid": "cd2cfd38-a2d4-422e-8621-7c49e2285e11",
+          "Name": "ControlGroup1"
         }
       ]
     }
