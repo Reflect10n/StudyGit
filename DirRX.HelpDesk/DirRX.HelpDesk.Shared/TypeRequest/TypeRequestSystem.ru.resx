@@ -67,4 +67,13 @@
   <data name="Property_Note">
     <value>Примечание</value>
   </data>
+  <data name="Property_Type">
+    <value>Тип</value>
+  </data>
+  <data name="Enum_Type_Access">
+    <value>Подтвержено</value>
+  </data>
+  <data name="Enum_Type_Wish">
+    <value>Желательно</value>
+  </data>
 </root>

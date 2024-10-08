@@ -67,4 +67,13 @@
   <data name="Property_Note">
     <value>Note</value>
   </data>
+  <data name="Property_Type">
+    <value>Type</value>
+  </data>
+  <data name="Enum_Type_Access">
+    <value>Access</value>
+  </data>
+  <data name="Enum_Type_Wish">
+    <value>Wish</value>
+  </data>
 </root>
