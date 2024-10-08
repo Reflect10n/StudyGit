@@ -59,6 +59,14 @@
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
     },
     {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "02607766-74a8-4964-88c2-1fe02eaaf516",
+      "Name": "Note",
+      "Code": "Note",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+    },
+    {
       "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
       "NameGuid": "cd5655a9-290f-45a2-940d-9ed5dcdb8b38",
       "Name": "Responsible",
