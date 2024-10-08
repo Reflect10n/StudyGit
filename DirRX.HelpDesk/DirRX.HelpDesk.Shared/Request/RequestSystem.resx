@@ -82,4 +82,10 @@
   <data name="Property_Responsible" xml:space="preserve">
     <value>Responsible</value>
   </data>
+  <data name="ControlGroup_cd2cfd38a2d4422e86217c49e2285e11" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Property_Index" xml:space="preserve">
+    <value>Index</value>
+  </data>
 </root>
